@@ -9,18 +9,18 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Einzbern Magic Cabal
-tagline:             'Blog of Kiritsugu Akitsuki'
-description:         'Kiritsugu Akitsuki,a freelancer graduated from Chongqing University,Lisp Develpor.Name in Chinese is Meijie Shen.'
-url:                 http://akitsukikiritsugu.github.io
+title:               Azeroth
+tagline:             'Blog of ForTheAlliance'
+description:         'a boubi graduated from Chongqing University,iOs Develpor.Name in Chinese is Qin Lize.'
+url:                 http://ForTheAlliance.github.io
 baseurl:             /
 paginate:            5
 
 # About/contact
 author:
-  name:              Kiritsugu Akitsuki
-  url:               http://akitsukikiritsugu.github.io
-  email:             240799357@qq.com
+  name:              ForTheAlliance
+  url:               http://ForTheAlliance.github.io
+  email:             331401931@qq.com
 
 # Custom vars
 version:             1.0.0
