@@ -12,14 +12,14 @@ relative_permalinks: true
 title:               Azeroth
 tagline:             'Blog of ForTheAlliance'
 description:         'a boubi graduated from Chongqing University,iOs Develpor.Name in Chinese is Qin Lize.'
-url:                 http://ForTheAlliance.github.io
+url:                 http://forthealliance.github.io
 baseurl:             /
 paginate:            5
 
 # About/contact
 author:
   name:              ForTheAlliance
-  url:               http://ForTheAlliance.github.io
+  url:               http://forthealliance.github.io
   email:             331401931@qq.com
 
 # Custom vars
